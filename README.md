@@ -18,3 +18,9 @@ Features:
 - Initialize depth from brightness or uniform value
 - Save/load rules to JSON for reuse across similar images
 - Full resolution output
+
+
+Requirements:
+You will need Python installed (above 11.0 should work fine) on Windows, Mac, or Linux
+You need to install Pillow in Python:
+**pip install Pillow**
